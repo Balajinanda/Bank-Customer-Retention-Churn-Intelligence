@@ -1,1 +1,1 @@
-# Bank-Customer-Retention & Churn-Intelligence
+# Bank Customer Retention & Churn Intelligence
