@@ -43,4 +43,20 @@ The primary objective of this project is to identify patterns and drivers of cus
 
 ## SQL Analysis Performed
 
-The dataset was imported into SQL Server and analyzed to identify customer churn patterns, risk segments, and key business drivers influencing customer retention.
+- Data validation and exploration
+- Customer churn rate analysis
+- Geography-based churn analysis
+- Gender-based churn analysis
+- Age group segmentation
+- Revenue at risk calculation
+- Credit score segmentation
+- Balance segmentation
+- Customer risk segmentation
+- High-value churned customer analysis
+
+## Key Insights
+
+- Customer churn varies across geographical regions.
+- Inactive customers are more likely to churn.
+- High-balance customers represent significant revenue risk.
+- Customer age and account behaviour strongly influence retention.
