@@ -60,3 +60,35 @@ The primary objective of this project is to identify patterns and drivers of cus
 - Inactive customers are more likely to churn.
 - High-balance customers represent significant revenue risk.
 - Customer age and account behaviour strongly influence retention.
+
+
+## Python Analysis Performed
+
+Python was used to clean, transform, and analyze the customer churn dataset using Visual Studio Code and Jupyter Notebook.
+
+### Data Cleaning
+
+- Loaded and validated customer data.
+- Checked for missing values and duplicate records.
+- Removed unnecessary columns.
+- Created Age Group segmentation.
+- Created Balance Segment categories.
+- Exported a cleaned dataset for analysis.
+
+### Exploratory Data Analysis (EDA)
+
+- Customer Churn Distribution Analysis
+- Geography-based Churn Analysis
+- Gender-based Churn Analysis
+- Age vs Churn Analysis
+- Correlation Heatmap Analysis
+- Churn Driver Analysis
+- High-Risk Customer Identification
+
+### Key Insights
+
+- Older customers demonstrated higher churn rates.
+- Inactive customers were more likely to leave the bank.
+- High-balance customers represented significant revenue risk.
+- Geography and customer activity status strongly influenced churn behaviour.
+- Risk segmentation helped identify customers requiring proactive retention strategies.
